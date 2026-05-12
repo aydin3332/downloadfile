@@ -379,7 +379,7 @@ eval(_0x9cf9[0]);**/
 
             </ul>
             <form action="https://pcmac.download/fa/search/" class="navbar-form navbar-right" onsubmit="return false;">
-                <input type="hidden" name="_token" value="UIwjyxwlpxdy1caG435zM7pBuXrnjb3QYyB7Bj2o">
+                <input type="hidden" name="_token" value="BHBs8l3dQ58do3MwnCKBbtxazniDqlmsjLXxtwXD">
                 <input type="text" placeholder="برنامه های جستجو..." name="q" class="form-control input-sm" value=""  />
                 
                 <button type="submit" class="searchbut" onclick="window.location.href=this.form.action + this.form.q.value;"><i class="material-icons">search</i></button>
